@@ -1,0 +1,12 @@
+C:\Users\Abood\source\repos\CREATE_QUIZ\bin\Debug\CREATE_QUIZ.exe.config
+C:\Users\Abood\source\repos\CREATE_QUIZ\bin\Debug\CREATE_QUIZ.exe
+C:\Users\Abood\source\repos\CREATE_QUIZ\bin\Debug\CREATE_QUIZ.pdb
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.csproj.AssemblyReference.cache
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.Form1.resources
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.Properties.Resources.resources
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.csproj.GenerateResource.cache
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.exe
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.pdb
+C:\Users\Abood\source\repos\CREATE_QUIZ\obj\Debug\CREATE_QUIZ.Grade.resources
